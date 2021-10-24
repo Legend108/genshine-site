@@ -4,16 +4,26 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/css/index.css">
+	<link rel="stylesheet" href="/assets/css/index.css">
 
 	<title>Genshine wish maker</title>
 </head>
+
 <body>
-  <div class="container">
-    <h1 class="genshin-text">Genshine Gift Gen</h1>
-    <button id="btn-open" class="genshin-btn">Open pack</button>
+	<div class="container">
+		<h1 class="genshin-text">Genshine Gift Gen</h1>
+		<button id="btn-open" class="genshin-btn">Open pack</button>
+    <button id="settings" class="genshin-btn">Open settings</button>
   </div>
-  <img src="https://media.giphy.com/media/3o6UBpHgaXFDNAuttm/giphy.gif" class="gif">
+  <video id="gif">
+    <source style="overflow: hidden;" src="/assets/videos/pack.mp4" type="video/mp4">
+  </video>
+
+  <div class="settings">
+    <h1>Settings</h1>
+    <!-- <input type="text" name="text" class="text-box"> -->
+    <button id="closeSettings" class="genshin-btn">Close Settings</button>
+  </div>
 </body>
   <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
 
