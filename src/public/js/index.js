@@ -1,10 +1,26 @@
 
 $(document).ready(function() {
-  $('.gif').hide()
-  const element1 = document.getElementById("btn-open")
+  $('.settings').hide()
+  $('#gif').hide()
 
-  $(element1).on("click", (event) => {
+  $(document.getElementById("btn-open")).on("click", (event) => {
     $('.container').hide();
-    $('.gif').show();
+    $('#gif').show();
+    const video = document.getElementById("gif");
+    video.autoplay = true;
+    video.load();
+    video.addEventListener('ended', (event) => {
+      $('#gif').hide();
+      $('.container').show();
+    })
+  })
+  $(document.getElementById("settings")).on('click', () => {
+    $('.settings').show();
+    $('.container').hide();
+  })
+
+  $(document.getElementById("closeSettings")).on('click', () => {
+    $('.container').show();
+    $('.settings').hide();
   })
 })
