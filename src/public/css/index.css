@@ -47,6 +47,54 @@ body {
   box-shadow: 1px 1px 3px wheat;
 }
 
+.genshin-btn:hover, .wish-btn:hover {
+  margin-left: 600px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(214, 196, 161);
+  color: rgb(196, 196, 131);
+  font-weight: bolder;
+  font-size: medium;
+  border-color: wheat;
+  box-shadow: 1px 1px 3px wheat;
+}
+
+.genshin-btn-2 {
+  margin-left: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(214, 196, 161);
+  color: black;
+  font-weight: bolder;
+  font-size: medium;
+  border-color: wheat;
+  box-shadow: 1px 1px 3px wheat;
+}
+
+.genshin-btn-2:hover {
+  margin-left: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(214, 196, 161);
+  color: rgb(196, 196, 131);
+  font-weight: bolder;
+  font-size: medium;
+  border-color: wheat;
+  box-shadow: 1px 1px 3px wheat;
+}
+
 .text-box {
   border-color: rgb(61, 61, 221);
   box-shadow: 1px 1px 2px blueviolet;
