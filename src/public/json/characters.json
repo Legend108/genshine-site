@@ -1,0 +1,307 @@
+[
+  {
+    "name": "Jean",
+    "element": "Anemo",
+    "type": "character",
+    "rating": 5,
+    "id": "749031380716879922",
+    "percentX": 57
+  },
+  {
+    "name": "Amber",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031317492203611",
+    "percentX": 63
+  },
+  {
+    "name": "Lisa",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031410358288396",
+    "percentX": 62
+  },
+  {
+    "name": "Yanfei",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031411358288396",
+    "percentX": 53
+  },
+  {
+    "name": "Eula",
+    "element": "Cryo",
+    "type": "character",
+    "rating": 5,
+    "id": "749131411358288396",
+    "percentX": 66
+  },
+  {
+    "name": "Kaeya",
+    "element": "Cryo",
+    "type": "character",
+    "rating": 4,
+    "id": "749031390867095731",
+    "percentX": 63
+  },
+  {
+    "name": "Barbara",
+    "element": "Hydro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031327726174398",
+    "percentX": 58
+  },
+  {
+    "name": "Diluc",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 5,
+    "id": "749031368255602861",
+    "percentX": 59
+  },
+  {
+    "name": "Rosaria",
+    "element": "Cryo",
+    "type": "character",
+    "rating": 4,
+    "id": "749031449864306720",
+    "percentX": 54
+  },
+  {
+    "name": "Razor",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031449864306719",
+    "percentX": 42
+  },
+  {
+    "name": "Venti",
+    "element": "Anemo",
+    "type": "character",
+    "rating": 5,
+    "id": "749031464883978310",
+    "percentX": 45
+  },
+  {
+    "name": "Klee",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 5,
+    "id": "749031404964151376",
+    "percentX": 57
+  },
+  {
+    "name": "Bennett",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031351533043772",
+    "percentX": 58
+  },
+  {
+    "name": "Noelle",
+    "element": "Geo",
+    "type": "character",
+    "rating": 4,
+    "id": "749031431132545057",
+    "percentX": 58
+  },
+  {
+    "name": "Fischl",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031374052393120",
+    "percentX": 59
+  },
+  {
+    "name": "Sucrose",
+    "element": "Anemo",
+    "type": "character",
+    "rating": 4,
+    "id": "749031457019658401",
+    "percentX": 60
+  },
+  {
+    "name": "Mona",
+    "element": "Hydro",
+    "type": "character",
+    "rating": 5,
+    "id": "749031417895452754",
+    "percentX": 58
+  },
+  {
+    "name": "Xiao",
+    "element": "Anemo",
+    "type": "character",
+    "rating": 5,
+    "id": "749031476665778347",
+    "percentX": 46
+  },
+  {
+    "name": "Beidou",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031334273613904",
+    "percentX": 55
+  },
+  {
+    "name": "Ningguang",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031423905759253",
+    "percentX": 58
+  },
+  {
+    "name": "Xiangling",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031470726905977",
+    "percentX": 60
+  },
+  {
+    "name": "Xingqiu",
+    "element": "Hydro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031483263680563",
+    "percentX": 58
+  },
+  {
+    "name": "Chongyun",
+    "element": "Cryo",
+    "type": "character",
+    "rating": 4,
+    "id": "749031361934917682",
+    "percentX": 63
+  },
+  {
+    "name": "Qiqi",
+    "element": "Cryo",
+    "type": "character",
+    "rating": 5,
+    "id": "749031442494914661",
+    "percentX": 63
+  },
+  {
+    "name": "Keqing",
+    "element": "Electro",
+    "type": "character",
+    "rating": 5,
+    "id": "749031397896749127",
+    "percentX": 58
+  },
+  {
+    "name": "Tartaglia",
+    "element": "Hydro",
+    "type": "character",
+    "rating": 5,
+    "percentX": 60
+  },
+  {
+    "name": "Diona",
+    "element": "Cryo",
+    "type": "character",
+    "rating": 4,
+    "percentX": 57
+  },
+  {
+    "name": "Zhongli",
+    "element": "Geo",
+    "type": "character",
+    "rating": 5,
+    "percentX": 58
+  },
+  {
+    "name": "Xinyan",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 4,
+    "percentX": 58
+  },
+  {
+    "name": "Albedo",
+    "element": "Geo",
+    "type": "character",
+    "rating": 5,
+    "percentX": 56
+  },
+  {
+    "name": "Ganyu",
+    "element": "Cryo",
+    "type": "character",
+    "rating": 5,
+    "percentX": 57
+  },
+  {
+    "name": "Hu-Tao",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 5,
+    "percentX": 57
+  },
+  {
+    "name": "Kazuha",
+    "element": "Anemo",
+    "type": "character",
+    "rating": 5,
+    "id": "749031380706879922",
+    "percentX": 57
+  },
+  {
+    "name": "Ayaka",
+    "element": "Cryo",
+    "type": "character",
+    "rating": 5,
+    "id": "749031381706879922",
+    "percentX": 54
+  },
+  {
+    "name": "Yoimiya",
+    "element": "Pyro",
+    "type": "character",
+    "rating": 5,
+    "id": "749031317492203611",
+    "percentX": 63
+  },
+  {
+    "name": "Sayu",
+    "element": "Anemo",
+    "type": "character",
+    "rating": 4,
+    "id": "749031317492223611",
+    "percentX": 52
+  },
+  {
+    "name": "Shogun",
+    "element": "Electro",
+    "type": "character",
+    "rating": 5,
+    "id": "749031317492203621",
+    "percentX": 61
+  },
+  {
+    "name": "Sara",
+    "element": "Electro",
+    "type": "character",
+    "rating": 4,
+    "id": "749031397492203621",
+    "percentX": 60
+  },
+  {
+    "name": "Kokomi",
+    "element": "Hydro",
+    "type": "character",
+    "rating": 5,
+    "id": "749011397492203621",
+    "percentX": 52
+  }
+]
